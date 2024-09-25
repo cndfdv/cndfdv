@@ -2,7 +2,7 @@
 
 ![](https://github.com/cndfdv/cndfdv/blob/main/mops.gif)
 
-### Skils
+### Education
 Study at MIPT deep learning school and Peoples' Friendship University of Russia at AI faculty.
 
 
