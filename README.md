@@ -3,10 +3,11 @@
 ![](https://github.com/cndfdv/cndfdv/blob/main/mops.gif)
 
 ### 🎓 Education
-- Student at **RUDN University**, Faculty of Artificial Intelligence
+- Student — **Faculty of Artificial Intelligence, RUDN University**
 
 ### 💼 Work
-- Laboratory Assistant at the **Artificial Intelligence Laboratory**
+- Internal Software Development Specialist — **Rosseti Scientific & Technical Center**
+- Laboratory Assistant — **Artificial Intelligence Laboratory**
 
 ## 🌐 Socials:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&style=flat)](https://t.me/cndfdv)
