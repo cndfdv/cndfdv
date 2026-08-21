@@ -32,9 +32,9 @@ RAG над документами, агентов и MCP-серверы, доо�
 [electricity-load-forecast](https://github.com/cndfdv/electricity-load-forecast) — бенчмарк краткосрочного прогноза электропотребления ·
 [flux-image-bot](https://github.com/cndfdv/flux-image-bot) · [voice-clone-bot](https://github.com/cndfdv/voice-clone-bot) · [ru-tts-dataset](https://github.com/cndfdv/ru-tts-dataset)
 
-## 🎓 Учебное и преподавательское
+## 🎓 Курсы и учебные материалы
 
-[ai_in_finance_pfur](https://github.com/cndfdv/ai_in_finance_pfur) — курс «ИИ в финансах» для магистров, который я веду ·
+[ai_in_finance_pfur](https://github.com/cndfdv/ai_in_finance_pfur) — магистерский курс «ИИ в финансах»: программа и лабораторные, которые я составил ·
 [ai-masterclasses](https://github.com/cndfdv/ai-masterclasses) — мастер-классы по агентам, GAN и RL ·
 [deep-learning-school](https://github.com/cndfdv/deep-learning-school) · [pfur-coursework](https://github.com/cndfdv/pfur-coursework) · [hse-coursework](https://github.com/cndfdv/hse-coursework)
 
