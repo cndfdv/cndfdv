@@ -7,7 +7,7 @@ RAG над документами, агентов и MCP-серверы, доо�
 и inference-сервисы, которые держат нагрузку на CPU.
 
 ### 🎓 Education
-- Student — **Faculty of Artificial Intelligence, RUDN University**
+- Student — **Faculty of Artificial Intelligence, Peoples' Friendship University of Russia (PFUR)**
 
 ### 💼 Work
 - Internal Software Development Specialist — **Rosseti Scientific & Technical Center**
