@@ -19,27 +19,6 @@ RAG над документами, агентов и MCP-серверы, доо�
 [![Telegram Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&style=flat)](https://t.me/cndfdv)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:knyzev.arsenii10@gmail.com) 
 
-## 🚀 Featured projects
-
-| Проект | О чём |
-|---|---|
-| [**docflow-rag**](https://github.com/cndfdv/docflow-rag) | RAG над организационными документами: приём через Telegram, сводка на согласование, структурный чанкинг, гибридный поиск dense + BM25/RRF |
-| [**realtime-translator**](https://github.com/cndfdv/realtime-translator) | Синхронный перевод в реальном времени: один аудиовход → пять языковых каналов параллельно (VAD → Whisper → NLLB → пять TTS-движков) |
-| [**ml-inference-services**](https://github.com/cndfdv/ml-inference-services) | Три автономных inference-сервиса на CPU — ASR, эмбеддер, OCR — с ленивой загрузкой моделей и выгрузкой из RAM по простою |
-| [**ai-lector**](https://github.com/cndfdv/ai-lector) | Анализ лекций: транскрипция, конспекты, майнд-карты, вопросы для самопроверки и RAG-поиск по базе |
-| [**docx-anonymizer**](https://github.com/cndfdv/docx-anonymizer) | Обезличивание DOCX локальной GLiNER-моделью + правила для российских идентификаторов, полностью офлайн |
-| [**llava-gemma-lora-ru**](https://github.com/cndfdv/llava-gemma-lora-ru) | Дообучение мультимодальной LLaVA-Gemma-2B на русском через LoRA — 3% параметров |
-
-Ещё: [metro-visual-rag](https://github.com/cndfdv/metro-visual-rag) — мультимодальный поиск по фото через CLIP + FAISS ·
-[electricity-load-forecast](https://github.com/cndfdv/electricity-load-forecast) — бенчмарк краткосрочного прогноза электропотребления ·
-[flux-image-bot](https://github.com/cndfdv/flux-image-bot) · [voice-clone-bot](https://github.com/cndfdv/voice-clone-bot) · [ru-tts-dataset](https://github.com/cndfdv/ru-tts-dataset)
-
-## 🎓 Курсы и учебные материалы
-
-[ai_in_finance_pfur](https://github.com/cndfdv/ai_in_finance_pfur) — магистерский курс «ИИ в финансах»: программа и лабораторные, которые я составил ·
-[ai-masterclasses](https://github.com/cndfdv/ai-masterclasses) — мастер-классы по агентам, GAN и RL ·
-[deep-learning-school](https://github.com/cndfdv/deep-learning-school) · [pfur-coursework](https://github.com/cndfdv/pfur-coursework) · [hse-coursework](https://github.com/cndfdv/hse-coursework)
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
