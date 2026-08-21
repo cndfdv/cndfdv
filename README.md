@@ -9,9 +9,11 @@ RAG над документами, агентов и MCP-серверы, доо�
 ### 🎓 Education
 - Student — **Faculty of Artificial Intelligence, Peoples' Friendship University of Russia (PFUR)**
 
-### 💼 Work
-- Internal Software Development Specialist — **Rosseti Scientific & Technical Center**
-- Laboratory Assistant — **Artificial Intelligence Laboratory**
+### 💼 Experience
+- **Internal Software Development Specialist** — Rosseti Scientific & Technical Center · 05.2026 — 09.2026
+  <br/>Микросервисы на FastAPI и PostgreSQL, RAG над организационными документами, inference-сервисы на CPU, сервисная авторизация и версионированные миграции.
+- **Laboratory Assistant** — Artificial Intelligence Laboratory, PFUR · 11.2024 — 05.2026
+  <br/>Прикладные ML/LLM-проекты лаборатории, дообучение мультимодальных моделей, синтез и клонирование речи, разработка учебных материалов.
 
 ## 🌐 Socials:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&style=flat)](https://t.me/cndfdv)
