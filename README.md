@@ -4,14 +4,14 @@
 
 **LLM / AI Engineer.** Я строю системы вокруг языковых и мультимодальных моделей:
 RAG над документами, агентов и MCP-серверы, дообучение под русский язык
-и inference-сервисы, которые держат нагрузку на CPU.
+и inference-сервисы
 
 ### 🎓 Education
 - Student — **Faculty of Artificial Intelligence, Peoples' Friendship University of Russia (PFUR)**
 
 ### 💼 Experience
 - **Internal Software Development Specialist** — Rosseti Scientific & Technical Center · 05.2026 — 09.2026
-  <br/>Микросервисы на FastAPI и PostgreSQL, RAG над организационными документами, inference-сервисы на CPU, сервисная авторизация и версионированные миграции.
+  <br/>Микросервисы на FastAPI и PostgreSQL, RAG над организационными документами, inference-сервисы
 - **Laboratory Assistant** — Artificial Intelligence Laboratory, PFUR · 11.2024 — 05.2026
   <br/>Прикладные ML/LLM-проекты лаборатории, дообучение мультимодальных моделей, синтез и клонирование речи, разработка учебных материалов.
 
