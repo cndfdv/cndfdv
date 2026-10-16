@@ -2,18 +2,20 @@
 
 ![](https://github.com/cndfdv/cndfdv/blob/main/mops.gif)
 
-**LLM / AI Engineer.** Я строю системы вокруг языковых и мультимодальных моделей:
-RAG над документами, агентов и MCP-серверы, дообучение под русский язык
-и inference-сервисы
+**LLM / AI Engineer.** I build systems powered by language and multimodal models:
+RAG over documents, AI agents, MCP servers, Russian-language fine-tuning,
+and model inference services.
 
 ### 🎓 Education
 - Student — **Faculty of Artificial Intelligence, Peoples' Friendship University of Russia (PFUR)**
 
 ### 💼 Experience
+- **AI Engineering Intern** — Sber · 09.2026 — Present
+  <br/>AI-powered platforms for storing, finding, and sharing work materials; personal knowledge bases with MCP access; automated tender monitoring and grant application assistance.
 - **Internal Software Development Specialist** — Rosseti Scientific & Technical Center · 05.2026 — 09.2026
-  <br/>Микросервисы на FastAPI и PostgreSQL, RAG над организационными документами, inference-сервисы
+  <br/>Backend services with FastAPI and PostgreSQL, RAG over organizational documents, CPU inference services, and AI agents for document generation and workflow automation.
 - **Laboratory Assistant** — Artificial Intelligence Laboratory, PFUR · 11.2024 — 05.2026
-  <br/>Прикладные ML/LLM-проекты лаборатории, дообучение мультимодальных моделей, синтез и клонирование речи, разработка учебных материалов.
+  <br/>Applied ML/LLM projects, multimodal model fine-tuning, speech synthesis and voice cloning, lecture analysis, and AI educational materials.
 
 ## 🌐 Socials:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-black?logo=Telegram&style=flat)](https://t.me/cndfdv)
